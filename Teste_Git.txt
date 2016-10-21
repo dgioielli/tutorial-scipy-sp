@@ -1,1 +1,3 @@
 teste do funcionamento de Git
+
+Teste de acrescimo de linhas no arquivo.
